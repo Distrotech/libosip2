@@ -1,0 +1,14 @@
+--no-tabs
+--indent-level2
+--line-length255
+--dont-break-function-decl-args
+--dont-break-function-decl-args-end
+--dont-format-comments
+--brace-indent1
+--braces-on-if-line
+--braces-on-struct-decl-line
+--braces-after-func-def-line
+--blank-lines-after-declarations
+--blank-lines-after-procedures
+-TPPL_DECLARE
+
